@@ -1,6 +1,6 @@
 # subpreorder
 
-Database is in the database folder. I used MySQL Database.
+The database is in the database folder. I used MySQL Database.
 
 REST API CRUD Operation
 
